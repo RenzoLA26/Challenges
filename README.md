@@ -7,3 +7,10 @@ Challenges del curso Reconocimiento de Patrones
    *Integrantes:*
    * Renzo William Luna Aliaga
    * Luis Fernando Galván Nuñez
+### 3. Challenge 3 (24 de abril)
+   *Integrantes:*
+   * Renzo William Luna Aliaga 73112727
+### 4. Challenge 4 (1 de mayo)
+   *Integrantes:*
+   * Renzo William Luna Aliaga
+   * Luis Fernando Galván Nuñez
